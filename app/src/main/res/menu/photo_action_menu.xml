@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/downAction"
+        android:icon="@drawable/ic_arrow"
+        android:title="@string/download_preview_toolbar"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/wallpaperAction"
+        android:icon="@drawable/ic_wallpaper"
+        android:title="@string/set_as_wallpaper_preview_toolbar"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/infosAction"
+        android:icon="@drawable/ic_info_outline"
+        android:title="@string/infos_preview_toolbar"
+        app:showAsAction="ifRoom"/>
+   <!--<item
+        android:id="@+id/likeAction"
+        android:icon="@drawable/ic_favorite_border"
+        android:title="@string/like_preview_toolbar"
+        app:showAsAction="ifRoom"/>-->
+
+    <item android:id="@+id/userlinkAction"
+        android:title="@string/view_user_preview_toolbar"
+        app:showAsAction="never"/>
+</menu>

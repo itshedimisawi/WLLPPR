@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navFeed"
+        android:title="@string/photos_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_photos_nav"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navTrending"
+        android:title="@string/trending_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_whatshot_black"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navCollections"
+        android:title="@string/collections_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_border_all_black"
+        app:showAsAction="ifRoom" />
+    <!--<item
+        android:id="@+id/navSupport"
+        android:title="@string/support_dev_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_border_black"
+        app:showAsAction="ifRoom"/>-->
+    <item
+        android:id="@+id/navSettings"
+        android:title="@string/settings_nav"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings_applications"
+        app:showAsAction="ifRoom"/>
+
+</menu>
+

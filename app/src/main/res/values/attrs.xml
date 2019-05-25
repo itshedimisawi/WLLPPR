@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorLayouts"
+        format="reference"/>
+    <attr name="colorNavbar"
+        format="reference"/>
+    <attr name="colorNavItemNotSelected"
+        format="reference"/>
+    <attr name="searchbarTheme"
+        format="reference"/>
+
+
+    <attr name="settingsIconTheme"
+        format="reference"/>
+    <attr name="settingsIconClear"
+        format="reference"/>
+</resources>

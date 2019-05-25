@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WLLPPR</string>
+    <string name="app_description">Your daily wallpaper source</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photos_nav">Photos</string>
+    <string name="trending_nav">Featured</string>
+    <string name="collections_nav">Collections</string>
+    <string name="settings_nav">Settings</string>
+    <string name="support_dev_nav">Support dev</string>
+    <string name="sort_searchbar_menu">Sort</string>
+    <string name="download_preview_toolbar">Download</string>
+    <string name="like_preview_toolbar">Support development</string>
+    <string name="set_as_wallpaper_preview_toolbar">Set as wallpaper</string>
+    <string name="infos_preview_toolbar">Infos</string>
+    <string name="get_started_btn">Get started</string>
+    <string name="dialog_sort_by">Sort by</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="view_user_preview_toolbar">View photographer on Unsplash</string>
+    <string name="enable_dark_theme">Enable dark theme</string>
+    <string name="clear_search_suggestions">Clear search history</string>
+
+
+</resources>

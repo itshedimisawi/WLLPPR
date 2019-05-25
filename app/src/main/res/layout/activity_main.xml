@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:background="?attr/colorLayouts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:elevation="0dp">
+        <com.mancj.materialsearchbar.MaterialSearchBar
+            android:id="@+id/material_searchbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_margin="5dp"
+            app:layout_scrollFlags="scroll|enterAlways|snap"
+            android:theme="?attr/searchbarTheme"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <FrameLayout
+        android:background="?attr/colorLayouts"
+        android:layout_marginBottom="50dp"
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:itemBackground="@drawable/background_nav_item"
+        app:itemIconTint="@color/nav_item_color"
+        app:itemTextColor="@color/nav_item_color"
+        app:labelVisibilityMode="labeled"
+        app:menu="@menu/bottom_nav_items"
+        android:layout_gravity="bottom"
+        android:background="?attr/colorNavbar"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
