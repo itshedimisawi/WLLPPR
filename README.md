@@ -7,4 +7,12 @@
 
 <p>Beautiful, free photos. Gifted by the world’s most generous community of photographers.</p>
 
-![alt text](media/wllppr0.png) ![alt text](media/wllppr1.png) ![alt text](media/wllppr2.png) ![alt text](media/wllppr3.png) ![alt text](media/wllppr4.png) ![alt text](media/wllppr5.png)
+
+<p float="left">
+  <img src="media/wllppr0.png" width="200" />
+  <img src="media/wllppr1.png" width="200" /> 
+  <img src="media/wllppr2.png" width="200" /> 
+  <img src="media/wllppr3.png" width="200" /> 
+  <img src="media/wllppr4.png" width="200" /> 
+  <img src="media/wllppr5.png" width="200" /> 
+</p>
