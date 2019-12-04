@@ -16,3 +16,17 @@
   <img src="media/wllppr4.png" width="200" /> 
   <img src="media/wllppr5.png" width="200" /> 
 </p>
+<p>
+  <h3>Dependencies</h3>
+  <ul>
+  <li>Retrofit 2.5.0</li>
+  <li>Glide 4.8.0</li>
+  <li>GSON</li>
+  <li>PhotoView 2.3.0</li>
+  <li>Prettytime 4.0.1</li>
+  <li>MaterialSearchBar 0.8.2</li>
+  <li>AppIntro 5.1.0</li>
+  <li>Material 1.1.0-alpha04</li>
+</ul>
+  
+</p>
