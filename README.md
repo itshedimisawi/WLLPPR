@@ -1,6 +1,3 @@
-<h1>WLLPPR For Unsplash</h1>
-<h4>By <a href="https://instagram.com/hedimisawi/"  target="_blank">Hedi Missaoui</a></h4>
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <p>WLLPPR for Android powered by <a href="https://unsplash.com">Unsplash</a>.</p>
