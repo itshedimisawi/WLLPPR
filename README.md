@@ -3,7 +3,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-<p>WLLPPR for Android powered by <a href="https://unsplash.com">Unsplash</a> made by <a href="https://instagram.com/hedimisawi/"  target="_blank">@hedimisawi</a>.</p>
+<p>WLLPPR for Android powered by <a href="https://unsplash.com">Unsplash</a>.</p>
 
 <p>Beautiful, free photos. Gifted by the world’s most generous community of photographers.</p>
 
